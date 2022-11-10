@@ -33,6 +33,7 @@ About
     border-radius: 50%;
     width: 120px;
     margin-bottom: 10px;
+    margin-top: 10px;
 
 }
 #about .name {
@@ -66,3 +67,35 @@ About
     margin-top: 10px;
     font-size: 30px;
  }
+
+ h2 {
+    font-weight: bold;
+    font-size: 23px;
+    margin-bottom: 20px;
+ }
+
+ a.font-black {
+    color: black;
+ }
+
+ /*****
+ project
+ ******/
+
+ #project {
+    margin: 60px auto;
+    width: 80%;
+ }
+
+ #project h2 {
+    text-align: center;
+ }
+
+ #project .card img{
+    width: 100%;
+ }
+
+ #project .card-title {
+    font-weight: bold;
+ }
+
